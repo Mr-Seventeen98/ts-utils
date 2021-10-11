@@ -1,0 +1,19 @@
+{
+  "name": "ts-utils",
+  "version": "0.0.1",
+  "description": "ts工具类",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-Seventeen98/ts-utils.git"
+  },
+  "author": "stone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mr-Seventeen98/ts-utils/issues"
+  },
+  "homepage": "https://github.com/Mr-Seventeen98/ts-utils#readme"
+}
